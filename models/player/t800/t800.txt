@@ -1,0 +1,19 @@
+Terminator Series 800 skin by Teppic8
+teppic8@yahoo.com
+
+Chrome Skeleton with red eyes. I made it so you can change the colour of the eyes,
+completely by accident! 
+
+Skin info:
+
+chrome: Yes 
+Hue shift: yes
+animation: unmodified Valve anims
+
+I extracted the skin using Mdlviewer v2.1.0402, and modified it in PSP.
+
+To use, extract the .zip file (camo.bmp and camo.mdl) into valve/models/player/t800/
+
+Check out RADIATION BURN @ http://www.contaminated.net/burn for skin reviews!
+
+Teppic8

@@ -1,0 +1,41 @@
+Guybrush Threepwood
+-----------------------------------------------------
+MODEL INFO:
+Author:         CROC hunter
+Model Name:   	Guybrush Threepwood
+Total Size:  	316 kb
+Build Time:    	4 Hours, Skin took a bit longer
+Programs Used:	3D Studio Max 3, Photoshop 5, HL Modelviewer
+
+Poly Count              : 760 polys
+Vert Count              : 412 verts
+Skin Count              : more than one, I hope your not using a Voodoo 1
+Base                    : brand new
+Known Bugs              : works in mdl viewer
+                          if you encounter any bugs let me know!
+
+
+Description:
+My 3rd model.
+
+Of course this is Guybrush Threepwood of Monkey Island Fame.  That goofball
+pirate is now available for a little deathmatch action.  I decided to go
+the cartoony look and keep the textures simple, since that's what lucasarts 
+has done in MI4.  
+
+Installation: Copy all files into Half-life/Valve/Models/player/guybrush
+
+Distribution:
+Distribute this model freely
+Do whatever the hell you want with it.  Just remember if you get the notion 
+to add any perverted enhancements he's copywritten by LEC.
+
+Thanks to: valve for finally releasing the 2.0 SDK
+---------------------------------------------
+
+
+If you want to hire me please feel free to email me, otherwise get lost.
+
+just kidding... 
+
+E-mail:	   bob@bah.net

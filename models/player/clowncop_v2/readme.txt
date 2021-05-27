@@ -1,0 +1,2 @@
+rager2121@aol.com
+I was just messing around with the drill sargeant Opposing Forces model from bootcamp. I reskinned it to look like a clown cop. Not to be taken seriouslty by any means, just a novelty.

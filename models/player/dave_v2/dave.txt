@@ -1,0 +1,32 @@
+-DAVE-
+-----------------------------------------------------
+MODEL INFO:
+Author:         Wolverine
+Model Name:   	David "Dave" Norton
+Total Size:  	182 kb
+Build Time:    	Exactly 7 hours and 47 min.
+#Vertices:      438	  
+#Triangles:     834
+Programs Used:	Milkshape 3d v1.1.0 , Photoshop 5, HL Modelviewer
+Known bugs:     There could be some Clipping problems when holding some of the weapons otgerwise NO                     Bugs.(at least None that I know of)
+Description:
+This is the 6th model that I´ve made, I´ve noticed that what I like Most about modeling HL models is to Skinning them (writing the Textures).
+And on this One I really had some FUN !!(ha ha , Just look at that STUPID face !!!)
+
+Installation: Copy all files into Half-life/Valve/Models/player/Dave
+
+Distribution:
+Distribute this model freely - But please include this .txt file.
+And also if U are planning to Use it on Your own site please ask me First.
+
+Thanks to: Valve who made have made the BEST game EVER ¤¤¤HALF-LIFE¤¤¤
+           and SIERRA for releasing it.
+           also additional credits to the person (I Think his name is k_vandorn ???) who made the "Yoda"            Model that I´ve Used from the beginning.
+Special Note: Valve or Sierra is not involved making this model.
+
+---------------------------------------------
+I´m very interested in making models and/or skins.
+So If U got any suggestions or need help with models/Skin making Feel free to contact me !!!
+
+E-mail:	   Lobowolverine@hotmail.com
+

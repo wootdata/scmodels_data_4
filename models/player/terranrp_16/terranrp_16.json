@@ -929,6 +929,7 @@
 			"name": "stock_twohanded"
 		}
 	],
+	"size": 736288,
 	"skeleton": [
 		{
 			"name": "Bip01",

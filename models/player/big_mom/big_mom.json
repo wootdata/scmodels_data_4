@@ -1,1 +1,539 @@
-{"seq_groups": 1, "hash": "045f03a980ccc8362b2961fce69af19f", "tri_count": "1508", "t_model": "big_momt.mdl"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "reference",
+					"polys": 1508,
+					"verts": 796
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 5,
+			"frame": 1,
+			"options": "",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 10,
+			"options": "",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 20,
+			"options": "",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 8,
+			"options": "",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 15,
+			"options": "",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 20,
+			"options": "",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 24,
+			"options": "",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 3,
+			"frame": 47,
+			"options": "",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 48,
+			"options": "",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 7,
+			"options": "",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 4,
+			"options": "",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 8,
+			"options": "",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 3,
+			"frame": 21,
+			"options": "",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 22,
+			"options": "",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 6,
+			"frame": 1,
+			"options": "",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 16,
+			"frame": 15,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 10,
+			"frame": 20,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 30,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 16,
+			"frame": 8,
+			"options": "",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 14,
+			"frame": 8,
+			"options": "",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 8,
+			"frame": 8,
+			"options": "",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 9,
+			"frame": 8,
+			"options": "",
+			"sequence": 7,
+			"type": 0
+		}, 
+		{
+			"event": 14,
+			"frame": 8,
+			"options": "",
+			"sequence": 7,
+			"type": 0
+		}, 
+		{
+			"event": 12,
+			"frame": 8,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 17,
+			"frame": 8,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 16,
+			"frame": 8,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 11,
+			"frame": 10,
+			"options": "",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 16,
+			"frame": 10,
+			"options": "",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 15,
+			"frame": 1,
+			"options": "",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 1,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 13,
+			"frame": 10,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5,
+			"frame": 15,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 14,
+			"frame": 10,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 14,
+			"frame": 10,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 14,
+			"frame": 10,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 50,
+			"frame": 15,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "26400e6019167649b44bc837a6dde1ce",
+	"name": "valve/models/big_mom.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 49,
+			"name": "walk"
+		}, 
+		{
+			"fps": 28.000000,
+			"frames": 23,
+			"name": "run"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 61,
+			"name": "death"
+		}, 
+		{
+			"fps": 35.000000,
+			"frames": 41,
+			"name": "claw"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 20,
+			"name": "claw"
+		}, 
+		{
+			"fps": 32.000000,
+			"frames": 23,
+			"name": "claw"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "spawn"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 17,
+			"name": "mortar"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 17,
+			"name": "flinch"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "defend"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "jump"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "angry1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 41,
+			"name": "angry2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 41,
+			"name": "angry3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "breakwall"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 39,
+			"name": "fall1"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 34,
+			"name": "fall2"
+		}, 
+		{
+			"fps": 23.000000,
+			"frames": 91,
+			"name": "falldeath"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 12
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 6
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 14
+		}, 
+		{
+			"name": "Bone03",
+			"parent": 15
+		}, 
+		{
+			"name": "Bone04",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone05",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone23",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone28",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone29",
+			"parent": 20
+		}, 
+		{
+			"name": "Bone20",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone26",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone32",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone07",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone08",
+			"parent": 25
+		}, 
+		{
+			"name": "Bone34",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone35",
+			"parent": 27
+		}, 
+		{
+			"name": "Bone11",
+			"parent": 16
+		}
+	],
+	"skins": 1,
+	"t_model": true,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 142,
+			"name": "sid1.bmp",
+			"width": 172
+		}, 
+		{
+			"flags": 0,
+			"height": 257,
+			"name": "leg1.bmp",
+			"width": 100
+		}, 
+		{
+			"flags": 0,
+			"height": 120,
+			"name": "top1.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 14,
+			"name": "crown.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 24,
+			"name": "crown2.bmp",
+			"width": 200
+		}, 
+		{
+			"flags": 0,
+			"height": 60,
+			"name": "bottom.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}

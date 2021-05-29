@@ -1,1 +1,354 @@
-{"seq_groups": 1, "hash": "d5a82b7e59d529f38c99407e3917abb9", "tri_count": "1062", "events": [{"seq": "0", "frame": "0", "file": "common/npc_step1.wav"}, {"seq": "0", "frame": "0", "file": "common/npc_step3.wav"}, {"seq": "1", "frame": "0", "file": "common/npc_step1.wav"}, {"seq": "1", "frame": "8", "file": "common/npc_step3.wav"}, {"seq": "2", "frame": "0", "file": "common/npc_step2.wav"}, {"seq": "2", "frame": "9", "file": "common/npc_step4.wav"}, {"seq": "3", "frame": "0", "file": "common/npc_step2.wav"}, {"seq": "3", "frame": "9", "file": "common/npc_step4.wav"}, {"seq": "4", "frame": "0", "file": "common/npc_step2.wav"}, {"seq": "4", "frame": "9", "file": "common/npc_step4.wav"}]}
+{
+	"attachments": [
+		{
+			"bone": 6,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 14,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "onpu",
+					"polys": 1062,
+					"verts": 666
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 6,
+			"end": 60.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -60.000000,
+			"type": 8
+		}
+	],
+	"events": [
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step1.wav",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step3.wav",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step1.wav",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 8,
+			"options": "common/npc_step3.wav",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step2.wav",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 9,
+			"options": "common/npc_step4.wav",
+			"sequence": 2,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step2.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 9,
+			"options": "common/npc_step4.wav",
+			"sequence": 3,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 0,
+			"options": "common/npc_step2.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 9,
+			"options": "common/npc_step4.wav",
+			"sequence": 4,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 26,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 11,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 18,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "d5a82b7e59d529f38c99407e3917abb9",
+	"name": "E:\\game\\half_life\\tool\\model\\hos2\\pack\\scientist.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 19,
+			"name": "walk"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 19,
+			"name": "walk_scared"
+		}, 
+		{
+			"fps": 32.000000,
+			"frames": 23,
+			"name": "run"
+		}, 
+		{
+			"fps": 32.000000,
+			"frames": 23,
+			"name": "run1"
+		}, 
+		{
+			"fps": 32.000000,
+			"frames": 23,
+			"name": "run2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 12,
+			"name": "180_Left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 12,
+			"name": "180_Right"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 30,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 60,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 30,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 30,
+			"name": "idle4"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 30,
+			"name": "idle5"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 130,
+			"name": "idle6"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "diesimple"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 30,
+			"name": "dieforward"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 30,
+			"name": "dieforward1"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "diebackward"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 30,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 30,
+			"name": "gutshot"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip02",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip02 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip02 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip02 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip02 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip02 Neck",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip02 Head",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip02 L Arm",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip02 L Arm1",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip02 L Arm2",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip02 L Hand",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip02 R Arm",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip02 R Arm1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip02 R Arm2",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip02 R Hand",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip02 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip02 L Leg1",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip02 L Foot",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip02 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip02 R Leg1",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip02 R Foot",
+			"parent": 19
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "op_body.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "op_face.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}

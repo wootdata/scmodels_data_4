@@ -1,1 +1,489 @@
-{"seq_groups": 1, "hash": "0bd110206a5736ad173e3d9acf9e9f69", "tri_count": "812", "events": [{"seq": "10", "frame": "2", "file": "common/npc_step1.wav"}, {"seq": "10", "frame": "12", "file": "common/npc_step3.wav"}, {"seq": "10", "frame": "22", "file": "common/npc_step2.wav"}, {"seq": "10", "frame": "31", "file": "common/npc_step4.wav"}, {"seq": "10", "frame": "41", "file": "common/npc_step1.wav"}, {"seq": "10", "frame": "51", "file": "common/npc_step3.wav"}, {"seq": "22", "frame": "33", "file": "zombie/claw_strike3.wav"}, {"seq": "22", "frame": "36", "file": "zombie/claw_strike3.wav"}, {"seq": "22", "frame": "60", "file": "zombie/zo_attack1.wav"}]}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "zombie_soldier_reference",
+					"polys": 812,
+					"verts": 431
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 1,
+			"frame": 10,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 19,
+			"options": "",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 3,
+			"frame": 6,
+			"options": "",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 2,
+			"options": "common/npc_step1.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 12,
+			"options": "common/npc_step3.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 22,
+			"options": "common/npc_step2.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 31,
+			"options": "common/npc_step4.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 41,
+			"options": "common/npc_step1.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 51,
+			"options": "common/npc_step3.wav",
+			"sequence": 10,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 19,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 18,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 10,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 21,
+			"options": "",
+			"sequence": 19,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 33,
+			"options": "zombie/claw_strike3.wav",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 36,
+			"options": "zombie/claw_strike3.wav",
+			"sequence": 22,
+			"type": 0
+		}, 
+		{
+			"event": 1004,
+			"frame": 60,
+			"options": "zombie/zo_attack1.wav",
+			"sequence": 22,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "0bd110206a5736ad173e3d9acf9e9f69",
+	"name": "C:\\sierra\\half-life\\gearbox\\models\\zombie_soldier.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 16,
+			"name": "turnleft"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 16,
+			"name": "turnright"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 7,
+			"name": "flinchsmall"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 21,
+			"name": "flinch"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 31,
+			"name": "bigflinch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "getup"
+		}, 
+		{
+			"fps": 26.000000,
+			"frames": 21,
+			"name": "falling"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "attack1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 21,
+			"name": "attack2"
+		}, 
+		{
+			"fps": 28.000000,
+			"frames": 60,
+			"name": "walk"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "laflinch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "raflinch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "llflinch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 16,
+			"name": "rlflinch"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 27,
+			"name": "dieheadshot"
+		}, 
+		{
+			"fps": 22.000000,
+			"frames": 29,
+			"name": "dieheadshot2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 21,
+			"name": "diesimple"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 31,
+			"name": "diebackward"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 31,
+			"name": "dieforward"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "dead_on_back"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "dead_on_stomach"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 231,
+			"name": "throw_scientist"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 151,
+			"name": "get_off_table"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "table_breathe"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Finger2",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger21",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger22",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 L Finger3",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger31",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 L Finger32",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 38
+		}, 
+		{
+			"name": "Bip01 R Finger2",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Finger21",
+			"parent": 40
+		}, 
+		{
+			"name": "Bip01 R Finger22",
+			"parent": 41
+		}, 
+		{
+			"name": "Bip01 R Finger3",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 R Finger31",
+			"parent": 43
+		}, 
+		{
+			"name": "Bip01 R Finger32",
+			"parent": 44
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 10
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 46
+		}, 
+		{
+			"name": "Bone10",
+			"parent": 8
+		}, 
+		{
+			"name": "Bone11",
+			"parent": 48
+		}, 
+		{
+			"name": "Bone07",
+			"parent": 8
+		}, 
+		{
+			"name": "Bone08",
+			"parent": 50
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 255,
+			"name": "zombie_soldier.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}

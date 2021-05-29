@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "5933aa9a85e752c7c396395caf816240", "tri_count": "376"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "car_wh",
+					"polys": 376,
+					"verts": 208
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "5933aa9a85e752c7c396395caf816240",
+	"name": "C:\\projects\\ghostops\\lowpolys\\car_wh.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 31,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Cylinder01",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "volvo_wh.bmp",
+			"width": 512
+		}
+	],
+	"version": 10
+}

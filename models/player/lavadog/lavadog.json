@@ -1,1 +1,365 @@
-{"seq_groups": 1, "hash": "6504b33e8af56dd52cad6ccbfda7ec59", "tri_count": "972"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "lavadog",
+					"polys": 972,
+					"verts": 524
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 28,
+			"end": 30.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 32
+		}
+	],
+	"events": [
+		{
+			"event": 2001,
+			"frame": 44,
+			"options": "",
+			"sequence": 7,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "6504b33e8af56dd52cad6ccbfda7ec59",
+	"name": "lavadog.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 159,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 80,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 1.000000,
+			"frames": 1,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 60,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 24,
+			"name": "run"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 1,
+			"name": "body_flinch"
+		}, 
+		{
+			"fps": 14.000000,
+			"frames": 30,
+			"name": "head_flinch"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 45,
+			"name": "death1_die"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "ctl_RACINE_proxy",
+			"parent": -1
+		}, 
+		{
+			"name": "def_Body_Center_proxy",
+			"parent": 0
+		}, 
+		{
+			"name": "def_Body_Back_proxy",
+			"parent": 1
+		}, 
+		{
+			"name": "def_Ventre_B1_proxy",
+			"parent": 2
+		}, 
+		{
+			"name": "def_Ventre_B2_proxy",
+			"parent": 3
+		}, 
+		{
+			"name": "Leg_BL_bone1_proxy",
+			"parent": 2
+		}, 
+		{
+			"name": "def_SHOULDER_BL_compens_proxy",
+			"parent": 5
+		}, 
+		{
+			"name": "def_SHOULDER_BL_compens1_proxy",
+			"parent": 6
+		}, 
+		{
+			"name": "Leg_BL_bone2_proxy",
+			"parent": 5
+		}, 
+		{
+			"name": "Leg_BL_bone3_proxy",
+			"parent": 8
+		}, 
+		{
+			"name": "Foot_BL_bone1_proxy",
+			"parent": 9
+		}, 
+		{
+			"name": "Foot_BL_bone2_proxy",
+			"parent": 10
+		}, 
+		{
+			"name": "Foot_Talon_BL_bone_proxy",
+			"parent": 11
+		}, 
+		{
+			"name": "Leg_BR_bone1_proxy",
+			"parent": 2
+		}, 
+		{
+			"name": "def_SHOULDER_BR_compens_proxy",
+			"parent": 13
+		}, 
+		{
+			"name": "def_SHOULDER_BR_compens1_proxy",
+			"parent": 14
+		}, 
+		{
+			"name": "Leg_BR_bone2_proxy",
+			"parent": 13
+		}, 
+		{
+			"name": "Leg_BR_bone3_proxy",
+			"parent": 16
+		}, 
+		{
+			"name": "Foot_BR_bone1_proxy",
+			"parent": 17
+		}, 
+		{
+			"name": "Foot_BR_bone2_proxy",
+			"parent": 18
+		}, 
+		{
+			"name": "Foot_Talon_BR_bone_proxy",
+			"parent": 19
+		}, 
+		{
+			"name": "Tail_bone1_proxy",
+			"parent": 2
+		}, 
+		{
+			"name": "Tail_bone2_proxy",
+			"parent": 21
+		}, 
+		{
+			"name": "Tail_bone3_proxy",
+			"parent": 22
+		}, 
+		{
+			"name": "Tail_bone4_proxy",
+			"parent": 23
+		}, 
+		{
+			"name": "def_Body_Front_proxy",
+			"parent": 1
+		}, 
+		{
+			"name": "def_Ventre_F1_proxy",
+			"parent": 25
+		}, 
+		{
+			"name": "def_Ventre_F2_proxy",
+			"parent": 26
+		}, 
+		{
+			"name": "Head_bone2_proxy",
+			"parent": 25
+		}, 
+		{
+			"name": "def_HEAD_compens_proxy",
+			"parent": 28
+		}, 
+		{
+			"name": "Head_Gorge_bone2_proxy",
+			"parent": 28
+		}, 
+		{
+			"name": "Mouth_Teeth_U_bone1_proxy",
+			"parent": 28
+		}, 
+		{
+			"name": "Mouth_Teeth_U_bone2_proxy",
+			"parent": 31
+		}, 
+		{
+			"name": "Mouth_Teeth_WM_bone_proxy",
+			"parent": 28
+		}, 
+		{
+			"name": "Mouth_Teeth_WL_bone2_proxy",
+			"parent": 33
+		}, 
+		{
+			"name": "Mouth_Teeth_WL_bone3_proxy",
+			"parent": 34
+		}, 
+		{
+			"name": "Mouth_Teeth_WR_bone2_proxy",
+			"parent": 33
+		}, 
+		{
+			"name": "Mouth_Teeth_WR_bone3_proxy",
+			"parent": 36
+		}, 
+		{
+			"name": "Pincers_proxy",
+			"parent": 28
+		}, 
+		{
+			"name": "Pincer_L_bone1_proxy",
+			"parent": 38
+		}, 
+		{
+			"name": "Pincer_L_bone2_proxy",
+			"parent": 39
+		}, 
+		{
+			"name": "Pincer_L_bone3_proxy",
+			"parent": 40
+		}, 
+		{
+			"name": "Pincer_R_bone1_proxy",
+			"parent": 38
+		}, 
+		{
+			"name": "Pincer_R_bone2_proxy",
+			"parent": 42
+		}, 
+		{
+			"name": "Pincer_R_bone3_proxy",
+			"parent": 43
+		}, 
+		{
+			"name": "Head_Gorge_bone1_proxy",
+			"parent": 25
+		}, 
+		{
+			"name": "Leg_FL_bone1_proxy",
+			"parent": 25
+		}, 
+		{
+			"name": "def_SHOULDER_FL_compens_proxy",
+			"parent": 46
+		}, 
+		{
+			"name": "def_SHLD_FLP1_compens_proxy",
+			"parent": 47
+		}, 
+		{
+			"name": "def_SHLD_FLP2_compens_proxy",
+			"parent": 48
+		}, 
+		{
+			"name": "Leg_FL_bone2_proxy",
+			"parent": 46
+		}, 
+		{
+			"name": "def_ELBOW_FL_compens_proxy",
+			"parent": 50
+		}, 
+		{
+			"name": "Foot_FL_bone_proxy",
+			"parent": 50
+		}, 
+		{
+			"name": "Foot_Fingers_FL_bone1_proxy",
+			"parent": 52
+		}, 
+		{
+			"name": "Foot_Fingers_FL_bone2_proxy",
+			"parent": 53
+		}, 
+		{
+			"name": "Leg_FR_bone1_proxy",
+			"parent": 25
+		}, 
+		{
+			"name": "def_SHOULDER_FR_compens_proxy",
+			"parent": 55
+		}, 
+		{
+			"name": "def_SHLD_FRP1_compens_proxy",
+			"parent": 56
+		}, 
+		{
+			"name": "def_SHLD_FRP2_compens_proxy",
+			"parent": 57
+		}, 
+		{
+			"name": "Leg_FR_bone2_proxy",
+			"parent": 55
+		}, 
+		{
+			"name": "def_ELBOW_FR_compens_proxy",
+			"parent": 59
+		}, 
+		{
+			"name": "Foot_FR_bone_proxy",
+			"parent": 59
+		}, 
+		{
+			"name": "Foot_Fingers_FR_bone1_proxy",
+			"parent": 61
+		}, 
+		{
+			"name": "Foot_Fingers_FR_bone2_proxy",
+			"parent": 62
+		}, 
+		{
+			"name": "def_Ventre_M1_proxy",
+			"parent": 1
+		}, 
+		{
+			"name": "def_Ventre_M2_proxy",
+			"parent": 64
+		}, 
+		{
+			"name": "Spine_B_bone1_proxy",
+			"parent": 1
+		}, 
+		{
+			"name": "Spine_F_bone2_proxy",
+			"parent": 66
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "lavadog_256.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}

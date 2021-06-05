@@ -1,0 +1,1118 @@
+{
+	"attachments": [
+		{
+			"bone": 6,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 6,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "ApacheF_Apache_Template_Biped1",
+					"polys": 788,
+					"verts": 506
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 5,
+			"end": 90.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -90.000000,
+			"type": 16
+		}, 
+		{
+			"bone": 6,
+			"end": 45.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -10.000000,
+			"type": 32
+		}
+	],
+	"events": [],
+	"id": 1414743113,
+	"md5": "e60364998efdb2236da6fcecd17acf4d",
+	"name": "ApacheF.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "death"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "death"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "death"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "death"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "death"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "death"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "death"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "high"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}, 
+		{
+			"fps": 17.000000,
+			"frames": 7,
+			"name": "low"
+		}
+	],
+	"size": 201444,
+	"skeleton": [
+		{
+			"name": "Dummy01",
+			"parent": -1
+		}, 
+		{
+			"name": "Dummy04",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone08",
+			"parent": 1
+		}, 
+		{
+			"name": "Bone09",
+			"parent": 2
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone04",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone05",
+			"parent": 5
+		}, 
+		{
+			"name": "Bone13",
+			"parent": 0
+		}, 
+		{
+			"name": "Bone14",
+			"parent": 7
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 80,
+			"name": "APCHE_Side2.bmp",
+			"width": 124
+		}, 
+		{
+			"flags": 0,
+			"height": 89,
+			"name": "APCHE_Tail1.bmp",
+			"width": 84
+		}, 
+		{
+			"flags": 0,
+			"height": 43,
+			"name": "APCHE_TailRotor1.bmp",
+			"width": 76
+		}, 
+		{
+			"flags": 0,
+			"height": 23,
+			"name": "APCHE_Tail_Fin1.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 54,
+			"name": "APCHE_Front1.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 0,
+			"height": 66,
+			"name": "APCHE_Side3.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 42,
+			"name": "APCHE_Wheel&Gun1.bmp",
+			"width": 80
+		}, 
+		{
+			"flags": 0,
+			"height": 35,
+			"name": "APCHE_Missles1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 62,
+			"name": "APCHE_Pod_Fnt1.bmp",
+			"width": 60
+		}, 
+		{
+			"flags": 0,
+			"height": 144,
+			"name": "APCHE_Top1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 46,
+			"name": "APCHE_Top_Rotor1.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "APCHE_Side4.bmp",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 103,
+			"name": "APCHE_Bottom1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 27,
+			"name": "APCHE_Front2.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 124,
+			"name": "APCHE_TopCanopy1.bmp",
+			"width": 36
+		}, 
+		{
+			"flags": 0,
+			"height": 22,
+			"name": "APCHE_Eside1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 69,
+			"name": "APCHE_Exhaust2.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 74,
+			"name": "APCHE_Exhaust1.bmp",
+			"width": 48
+		}, 
+		{
+			"flags": 0,
+			"height": 95,
+			"name": "APCHE_Brace1.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 45,
+			"name": "APCHE_Wing1.bmp",
+			"width": 68
+		}, 
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "APCHE_Extra1.bmp",
+			"width": 60
+		}, 
+		{
+			"flags": 0,
+			"height": 22,
+			"name": "APCHE_Pod1.bmp",
+			"width": 60
+		}, 
+		{
+			"flags": 0,
+			"height": 148,
+			"name": "APCHE_Blade1.bmp",
+			"width": 16
+		}
+	],
+	"version": 10
+}

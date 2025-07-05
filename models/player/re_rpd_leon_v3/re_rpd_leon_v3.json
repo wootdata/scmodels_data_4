@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "johnson_ref",
-					"polys": 821,
-					"verts": 430
+					"name": "re_rpd_leon_asian",
+					"polys": 974,
+					"verts": 700
 				}
 			],
 			"name": "body"
@@ -146,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "3f5a5419f313eb3bb9cf0f9e981b9586",
-	"name": "RE_STARS_Kenneth.mdl",
+	"md5": "956db736b126cfedf652f08491561f16",
+	"name": "re_rpd_leon.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,9 +1214,59 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 1,
+			"name": "Fixed {T.Ba.5} By FreeKill"
 		}
 	],
-	"size": 1189928,
+	"size": 1508084,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1314,19 +1364,25 @@
 			"flags": 0,
 			"height": 328,
 			"name": "arms.bmp",
-			"width": 496
+			"width": 500
 		}, 
 		{
 			"flags": 0,
 			"height": 500,
 			"name": "legs.bmp",
-			"width": 376
+			"width": 380
 		}, 
 		{
 			"flags": 0,
-			"height": 254,
-			"name": "johnsonface.bmp",
-			"width": 252
+			"height": 512,
+			"name": "hair.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 250,
+			"name": "militiahead1.bmp",
+			"width": 256
 		}
 	],
 	"version": 10

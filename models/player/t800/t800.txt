@@ -1,19 +1,22 @@
-Terminator Series 800 skin by Teppic8
-teppic8@yahoo.com
+T800 for Half-life 5/6/00
 
-Chrome Skeleton with red eyes. I made it so you can change the colour of the eyes,
-completely by accident! 
+Model by   : Lourens "ZERO" van Jaarsveld
+Time Taken : dont ask!
+used       : Milkshape 3D
+	     Adobe Photoshop
+	     Corel Photohouse
+FACE COUNT : 800 (close one)
+email      : lourensZA@hotmail.com
 
-Skin info:
+This is my 2nd model for HL, it is actually the
+7th or eight model of t800 i made! This model would
+not have been possible without help and tips from
+SCARECROW, also thanx 2 all the guys at coldfusion
+chatroom for more tips on the model...i had 2 de-beef the legs(slightly twisted) i am a great fan of the movie, so i just had 2 make him.
 
-chrome: Yes 
-Hue shift: yes
-animation: unmodified Valve anims
 
-I extracted the skin using Mdlviewer v2.1.0402, and modified it in PSP.
+;Notes from the converter
+I simply copied over the animations from the 4.0 Gordon over to this model to make it usable in SvenCoop, some animations might be bugged.
+Simply extract the archive to models/players folder inside your SvenCoop installation folder. For example:
+C:\Program Files\Valve\Steam\SteamApps\accountname\half-life\SvenCoop\models\player\ 
 
-To use, extract the .zip file (camo.bmp and camo.mdl) into valve/models/player/t800/
-
-Check out RADIATION BURN @ http://www.contaminated.net/burn for skin reviews!
-
-Teppic8

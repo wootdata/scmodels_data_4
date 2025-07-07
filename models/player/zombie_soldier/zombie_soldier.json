@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1190314166,
 	"events": [
@@ -137,7 +138,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0bd110206a5736ad173e3d9acf9e9f69",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\sierra\\half-life\\gearbox\\models\\zombie_soldier.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

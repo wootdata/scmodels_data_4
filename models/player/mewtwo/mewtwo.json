@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "564e2ae063b5146aa4589e31b0743ec1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Mewtwo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

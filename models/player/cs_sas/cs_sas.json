@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d359ac1cf42872a49c26dcf00faff4e4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "../compiled/cs_sas.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

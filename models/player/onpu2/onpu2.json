@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -206,7 +207,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9856eab404afc9a62fb166264290e671",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\game\\half_life\\tool\\model\\hos5\\pack2\\onpu2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

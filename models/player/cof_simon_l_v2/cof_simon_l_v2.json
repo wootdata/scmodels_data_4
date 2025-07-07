@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a4a35f88b1e09a34c2cb8f5ee73d4baf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "../compiled/cryoffear_simon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

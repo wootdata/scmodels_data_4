@@ -33,6 +33,7 @@
 			"name": "IM HAVING A STROKE"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -409,7 +410,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ed81180039a937344c08535a52653fee",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "s_Toad.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

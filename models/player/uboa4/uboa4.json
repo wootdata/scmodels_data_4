@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1264443902,
 	"events": [
@@ -249,7 +250,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a32442b9b5343754099e17ed9080b686",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "uboa4.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

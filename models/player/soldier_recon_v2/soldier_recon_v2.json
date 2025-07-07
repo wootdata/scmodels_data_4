@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -285,7 +286,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dbcd834d308c7ccf9cda63150970e568",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_recon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

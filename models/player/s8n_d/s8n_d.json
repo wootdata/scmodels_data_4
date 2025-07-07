@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "87dc4673db381dd80db4c09272bbc560",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "wtfm.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

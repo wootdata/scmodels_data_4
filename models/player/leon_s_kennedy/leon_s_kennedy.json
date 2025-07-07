@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4d21b872abb7c70f3aaf23767a5f0385",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "leon.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -305,7 +306,11 @@
 	],
 	"id": 1414743113,
 	"md5": "33eaff131792c5bc4e352a8b5bef90ce",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bunnygirl_space.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

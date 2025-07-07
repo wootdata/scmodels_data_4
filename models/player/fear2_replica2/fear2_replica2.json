@@ -63,6 +63,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d7318112d399fb2e9b1828d9fa963d2e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "fear2_replica2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

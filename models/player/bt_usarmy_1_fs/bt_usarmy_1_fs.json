@@ -73,6 +73,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2de4b84ab25966d55633a8772dccac35",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BT_USArmy_1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -383,7 +384,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e837e49d84c405ee310e17ff97f49b6d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KZ_Megumin.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

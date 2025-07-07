@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bad96985b82e41deeda4e3f41e7e3805",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomata_zinbei.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

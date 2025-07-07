@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c05d1700f8cb09e0d2ab91a417c91bb2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\Terrant\\Desktop\\Terrant_B1\\Terrant_B1.",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

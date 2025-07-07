@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -772,7 +773,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1214ffb2270795adb4edfde566396b33",
+	"metahook_external": true,
+	"metahook_ragdoll": true,
 	"name": "GFL_M14.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

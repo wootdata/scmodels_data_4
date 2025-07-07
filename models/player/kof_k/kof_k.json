@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7b525ad39cb86737930a7abc19577e56",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "G_Gintoki.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

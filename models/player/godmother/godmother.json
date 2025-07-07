@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "14af4d32539d4eb5d410fd534f14e31e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player/Hgrunt/AeonFlux.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

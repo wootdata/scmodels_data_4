@@ -73,6 +73,7 @@
 			"name": "wing"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "444000fac86fe22d9972c9e98763b3a4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "flandre_cab_nude.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

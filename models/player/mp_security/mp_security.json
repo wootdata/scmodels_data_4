@@ -33,6 +33,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ab1136f9cbcb2fdad0d927d5071071d5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "mp_security_2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0a54a2d3e6002e1ec42a99d26d1c6af2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "malachous.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

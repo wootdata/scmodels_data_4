@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -284,7 +285,11 @@
 	],
 	"id": 1414743113,
 	"md5": "28beeac852b8732cd0ce541711a897e2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nekomimi_bikini2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9fae3f6d4230e5365a4a70b14b7a10e6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_yuka.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

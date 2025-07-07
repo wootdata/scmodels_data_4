@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e0162fa51b876f0708d52a2204a60ae6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]PFC_Montes.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

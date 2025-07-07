@@ -153,6 +153,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -844,7 +845,11 @@
 	],
 	"id": 1414743113,
 	"md5": "146ef6ffc574cab3a939629dc5739543",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Yaenew.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -393,7 +394,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0e765340aef71946ff75e0d4a0a5a279",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RWBY_Weiss.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

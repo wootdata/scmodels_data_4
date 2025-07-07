@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1456011482,
 	"events": [],
 	"id": 1414743113,
 	"md5": "5933aa9a85e752c7c396395caf816240",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\projects\\ghostops\\lowpolys\\car_wh.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

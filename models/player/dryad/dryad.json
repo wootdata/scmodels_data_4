@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1267111172,
 	"events": [
@@ -249,7 +250,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a276cdeacdde0943022db999258a19fc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Dryad.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

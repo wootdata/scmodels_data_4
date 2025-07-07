@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -347,7 +348,11 @@
 	],
 	"id": 1414743113,
 	"md5": "78258a1d0905cd3507d7cc2eeee4e93f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "N64_mario.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e97903fce781ff467efd2baf1b78fab9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USN]HM2_Wilkes.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

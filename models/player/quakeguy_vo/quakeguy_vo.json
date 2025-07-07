@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -331,7 +332,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ff11926214508d54024c16df1f22e3fb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "quakeguy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

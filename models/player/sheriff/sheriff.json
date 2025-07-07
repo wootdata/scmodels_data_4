@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 40,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0f58b1f72dab7edc09bffbf1e0f9c807",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sheriff.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -52,6 +52,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -715,7 +716,11 @@
 	],
 	"id": 1414743113,
 	"md5": "88ba6d7e4e8aaaffa71a05179f3d38ae",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Neppugia-cosplay.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

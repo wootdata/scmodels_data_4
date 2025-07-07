@@ -23,6 +23,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 5,
@@ -45,7 +46,11 @@
 	"events": [],
 	"id": 1414743113,
 	"md5": "55e1854402ac847a74eb45d0b876f023",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ApacheSHIT.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

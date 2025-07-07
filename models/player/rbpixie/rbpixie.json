@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 48,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b6c008913aa605cb638ecdfdce5f55c7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:/game/halflife/valve/models/player/ccsakura/ccsakura.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -82,6 +82,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -745,7 +746,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e6b283558805d24a3a07bde244e4a961",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Neppugya.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

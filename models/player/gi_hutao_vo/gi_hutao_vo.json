@@ -163,6 +163,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -779,7 +780,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f9ed13e999ef9f09b6412bdae849acf7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gi_hutao.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

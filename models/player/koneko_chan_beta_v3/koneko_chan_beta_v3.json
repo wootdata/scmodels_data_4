@@ -103,6 +103,7 @@
 			"name": "tail"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -461,7 +462,11 @@
 	],
 	"id": 1414743113,
 	"md5": "28c08eab7fa0a6960d993ddbf7f6af1e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "F:\\Program Files (x86)\\Steam\\steamapps\\common\\Sven Co-op\\svencoo8h",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

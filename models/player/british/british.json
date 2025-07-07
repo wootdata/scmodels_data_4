@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -352,7 +353,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b9a7e1430e765afe9533c8a6ac226d27",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "british.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

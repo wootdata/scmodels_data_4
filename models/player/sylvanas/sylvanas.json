@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "429700b16cadcd695fc0bf17cadac8b9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sylvanas.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

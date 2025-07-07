@@ -53,6 +53,7 @@
 			"name": "Body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "26e6317966e199d0a4792c7896ca9fad",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Forsyth.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

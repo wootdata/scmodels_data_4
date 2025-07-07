@@ -28,6 +28,7 @@
 			"name": "zombie_barney_ref"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -306,7 +307,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ead42504669f7a68c37f820808507ff3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ZombieMan3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

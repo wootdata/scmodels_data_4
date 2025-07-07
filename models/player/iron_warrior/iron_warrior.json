@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ac7f44406c61a2ec2f9e7adaac85a519",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Iron_Warrior.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1706450999,
 	"events": [
@@ -98,7 +99,11 @@
 	],
 	"id": 1414743113,
 	"md5": "59d58809c87ab62920c7b8811ce2561b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TDH_Coffee.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

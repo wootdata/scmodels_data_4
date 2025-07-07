@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ef8594610e4957e4bd4b1f52a4b97938",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\WINDOWS\\Desktop\\kermit\\Grey3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

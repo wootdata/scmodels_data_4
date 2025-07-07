@@ -123,6 +123,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -788,7 +789,11 @@
 	],
 	"id": 1414743113,
 	"md5": "608c7594d8feaa5e4b4e0dd200400889",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Azur_Lane_Enterprise.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

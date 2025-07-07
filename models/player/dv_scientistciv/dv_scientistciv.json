@@ -33,6 +33,7 @@
 			"name": "torso"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9140b23d71725a351e1b7eec2dc3fe2f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DV_ScientistCiv.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "paper_mario"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -277,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2fb026bbd9dfde0a16958a5dd2cd5c19",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "paper_mario.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

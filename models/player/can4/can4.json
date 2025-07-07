@@ -33,6 +33,7 @@
 			"name": "can"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c8ddf2811914de452f1f825df59f5a1c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "can.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

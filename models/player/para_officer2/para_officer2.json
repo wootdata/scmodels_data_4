@@ -48,6 +48,7 @@
 			"name": "other"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -326,7 +327,11 @@
 	],
 	"id": 1414743113,
 	"md5": "88b6d4b2d55dbf73fb17014af04ad5ca",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "para_officer2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

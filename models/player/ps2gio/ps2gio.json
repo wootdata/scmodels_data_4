@@ -43,6 +43,7 @@
 			"name": "cellshade"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "51c56a582249cf3264e6bb08975caefa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ps2gio.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

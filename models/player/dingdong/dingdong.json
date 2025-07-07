@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 5,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cef43e6999f466e4672a43249bd61380",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dingdong.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

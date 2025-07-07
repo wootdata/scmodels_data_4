@@ -28,6 +28,7 @@
 			"name": "Hunk4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "851a4c26c2128b7a8b016407d7385625",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Counterx.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9d0ff4b6f1a72d8eca62fb58f66828cf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cop.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

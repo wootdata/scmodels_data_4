@@ -301,6 +301,7 @@
 	"md5": "d359ac1cf42872a49c26dcf00faff4e4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "../compiled/cs_sas.mdl",
 	"preview": true,
 	"readme": false,

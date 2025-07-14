@@ -306,6 +306,7 @@
 	"md5": "e2700c492f106e8a0164c0c866632a62",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "soldier.mdl",
 	"preview": true,
 	"readme": true,

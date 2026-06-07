@@ -1,17 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 32,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 32,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 32,
+			"bone": 27,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 17,
 			"name": "",
 			"type": 0
 		}
@@ -20,28 +25,18 @@
 		{
 			"models": [
 				{
-					"name": "helmet_body_ref",
-					"polys": 476,
-					"verts": 249
+					"name": "bach_reference",
+					"polys": 460,
+					"verts": 246
 				}
 			],
 			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "helmet_head_ref",
-					"polys": 94,
-					"verts": 52
-				}
-			],
-			"name": "head"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
-			"bone": 14,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -49,7 +44,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 15,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -57,7 +52,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 16,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -65,7 +60,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 17,
+			"bone": 11,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -73,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1780811479,
+	"date": 1779478866,
 	"events": [
 		{
 			"event": 2001,
@@ -183,14 +178,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -308,12 +303,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "e6d42b2ef219fae514b56281ee3317b5",
+	"md5": "703e7d6efb29367cbdb5f9ece9560229",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "helmet.mdl",
-	"preview": false,
+	"name": "bach_sven.mdl",
+	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
@@ -1238,12 +1233,12 @@
 			"name": "barnaclepull"
 		}, 
 		{
-			"fps": 18.000000,
+			"fps": 10.000000,
 			"frames": 36,
 			"name": "barnaclecrunch"
 		}, 
 		{
-			"fps": 15.000000,
+			"fps": 6.000000,
 			"frames": 36,
 			"name": "barnaclechew"
 		}, 
@@ -1259,7 +1254,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 66,
+			"frames": 71,
 			"name": "action_retina"
 		}, 
 		{
@@ -1273,7 +1268,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1021100,
+	"size": 1017220,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1296,40 +1291,16 @@
 			"parent": 3
 		}, 
 		{
-			"name": "Bip01 L Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Toe01",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 L Toe02",
-			"parent": 6
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 8
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 R Toe01",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 R Toe02",
-			"parent": 12
+			"parent": 6
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -1337,103 +1308,103 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 14
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 15
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 16
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 20
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 24
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 32
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 33
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 34
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 32
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 36
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 37
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
 			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1442,56 +1413,20 @@
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "DM_Base.bmp",
+			"name": "bach_body.bmp",
 			"width": 256
 		}, 
 		{
-			"flags": 3,
-			"height": 64,
-			"name": "PLAYER_Chrome1.bmp",
-			"width": 64
+			"flags": 0,
+			"height": 96,
+			"name": "bach_face.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
-			"height": 18,
-			"name": "PLAYER_Cuff1.bmp",
-			"width": 16
-		}, 
-		{
-			"flags": 0,
-			"height": 27,
-			"name": "PLAYER_Deltoid1.bmp",
-			"width": 28
-		}, 
-		{
-			"flags": 0,
-			"height": 19,
-			"name": "PLAYER_FootBtm1.bmp",
-			"width": 8
-		}, 
-		{
-			"flags": 0,
-			"height": 30,
-			"name": "PLAYER_Hand-Btm1.bmp",
-			"width": 20
-		}, 
-		{
-			"flags": 0,
-			"height": 8,
-			"name": "PLAYER_Helm(Rim)1.bmp",
-			"width": 24
-		}, 
-		{
-			"flags": 0,
-			"height": 10,
-			"name": "PLAYER_Helm(Rim2).bmp",
-			"width": 20
-		}, 
-		{
-			"flags": 0,
-			"height": 39,
-			"name": "PLAYER_Helm(Top).bmp",
-			"width": 28
+			"height": 128,
+			"name": "bach_wig.bmp",
+			"width": 128
 		}
 	],
 	"version": 10

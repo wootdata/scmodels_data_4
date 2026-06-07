@@ -12,8 +12,9 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
-	"date": 951523682,
+	"date": 1780811479,
 	"events": [
 		{
 			"event": 5,
@@ -270,7 +271,12 @@
 	],
 	"id": 1414743113,
 	"md5": "26400e6019167649b44bc837a6dde1ce",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "valve/models/big_mom.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

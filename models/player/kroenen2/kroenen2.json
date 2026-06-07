@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1354543388,
+	"date": 1780811479,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "395a17f506edd771ba48ca5ac3d4ba24",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "recruit.mdl",
 	"preview": true,
 	"readme": false,

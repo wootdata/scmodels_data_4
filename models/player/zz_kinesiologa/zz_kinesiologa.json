@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092280,
+	"date": 1780811479,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "2a1d606b44585be5b6fcd099a8602ae8",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\Mis Documentos\\Kevin\\Games\\HL\\Skins\\1. EDITAR\\1. nuku-b_kine\\<",
 	"preview": true,
 	"readme": false,

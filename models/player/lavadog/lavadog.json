@@ -23,7 +23,7 @@
 			"type": 32
 		}
 	],
-	"date": 1452706304,
+	"date": 1780811479,
 	"events": [
 		{
 			"event": 2001,
@@ -37,6 +37,7 @@
 	"md5": "6504b33e8af56dd52cad6ccbfda7ec59",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "lavadog.mdl",
 	"preview": false,
 	"readme": false,

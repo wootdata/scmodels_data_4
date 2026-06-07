@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 977955670,
+	"date": 1780811479,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "8f7c4193b42e035ef25d748c15443119",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/DM_Skel/dm_skel.mdl",
 	"preview": true,
 	"readme": false,

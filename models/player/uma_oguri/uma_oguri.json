@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "null",
-					"polys": 240,
-					"verts": 78
+					"name": "oguri_P1",
+					"polys": 2000,
+					"verts": 1231
 				}
 			],
 			"name": "body"
@@ -35,9 +35,9 @@
 		{
 			"models": [
 				{
-					"name": "1",
-					"polys": 2038,
-					"verts": 1055
+					"name": "oguri_P2",
+					"polys": 2000,
+					"verts": 1585
 				}
 			],
 			"name": "body"
@@ -45,9 +45,9 @@
 		{
 			"models": [
 				{
-					"name": "2",
-					"polys": 1848,
-					"verts": 959
+					"name": "oguri_P3",
+					"polys": 2000,
+					"verts": 1360
 				}
 			],
 			"name": "body"
@@ -55,9 +55,9 @@
 		{
 			"models": [
 				{
-					"name": "3",
-					"polys": 2546,
-					"verts": 1210
+					"name": "oguri_P4",
+					"polys": 2000,
+					"verts": 1915
 				}
 			],
 			"name": "body"
@@ -65,9 +65,9 @@
 		{
 			"models": [
 				{
-					"name": "4",
-					"polys": 168,
-					"verts": 138
+					"name": "oguri_P5",
+					"polys": 2000,
+					"verts": 1369
 				}
 			],
 			"name": "body"
@@ -75,9 +75,9 @@
 		{
 			"models": [
 				{
-					"name": "5",
-					"polys": 384,
-					"verts": 223
+					"name": "oguri_P6",
+					"polys": 2000,
+					"verts": 1349
 				}
 			],
 			"name": "body"
@@ -85,9 +85,9 @@
 		{
 			"models": [
 				{
-					"name": "6",
-					"polys": 1028,
-					"verts": 530
+					"name": "oguri_P7",
+					"polys": 2000,
+					"verts": 1367
 				}
 			],
 			"name": "body"
@@ -95,9 +95,9 @@
 		{
 			"models": [
 				{
-					"name": "7",
-					"polys": 2514,
-					"verts": 1303
+					"name": "oguri_P8",
+					"polys": 2000,
+					"verts": 1518
 				}
 			],
 			"name": "body"
@@ -105,9 +105,9 @@
 		{
 			"models": [
 				{
-					"name": "8",
-					"polys": 2790,
-					"verts": 1429
+					"name": "oguri_P9",
+					"polys": 2000,
+					"verts": 737
 				}
 			],
 			"name": "body"
@@ -115,9 +115,9 @@
 		{
 			"models": [
 				{
-					"name": "9",
-					"polys": 1220,
-					"verts": 647
+					"name": "oguri_P10",
+					"polys": 2000,
+					"verts": 881
 				}
 			],
 			"name": "body"
@@ -125,39 +125,9 @@
 		{
 			"models": [
 				{
-					"name": "10",
-					"polys": 1840,
-					"verts": 960
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "11",
-					"polys": 754,
-					"verts": 385
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "12",
-					"polys": 1940,
-					"verts": 974
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "13",
-					"polys": 140,
-					"verts": 94
+					"name": "oguri_P11",
+					"polys": 1128,
+					"verts": 822
 				}
 			],
 			"name": "body"
@@ -204,37 +174,21 @@
 			"rest": 0,
 			"start": 0.000000,
 			"type": 32
-		}, 
-		{
-			"bone": 17,
-			"end": 15.000000,
-			"index": 1,
-			"rest": 0,
-			"start": -15.000000,
-			"type": 8
-		}, 
-		{
-			"bone": 18,
-			"end": 15.000000,
-			"index": 1,
-			"rest": 0,
-			"start": -15.000000,
-			"type": 8
 		}
 	],
-	"date": 1780811479,
+	"date": 1777214576,
 	"events": [
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/jump.wav",
+			"options": "",
 			"sequence": 8,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/jump2.wav",
+			"options": "",
 			"sequence": 9,
 			"type": 0
 		}, 
@@ -289,92 +243,92 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_meel.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 19,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget_meel.wav",
+			"options": "",
 			"sequence": 22,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/charge.wav",
+			"options": "",
 			"sequence": 25,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/bash.wav",
+			"options": "",
 			"sequence": 27,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/charge.wav",
+			"options": "",
 			"sequence": 28,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/bash.wav",
+			"options": "",
 			"sequence": 30,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget_gren.wav",
+			"options": "player/playersounds/uma_oguri/goldoshipu.wav",
 			"sequence": 31,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 3,
-			"options": "player/playersounds/hutao/shoot2.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 35,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_gren.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 36,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/shoot2.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 40,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_trip.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 41,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_trip.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 44,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget1.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 47,
 			"type": 0
 		}, 
@@ -388,7 +342,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget1.wav",
+			"options": "",
+			"sequence": 50,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
 			"sequence": 51,
 			"type": 0
 		}, 
@@ -402,7 +363,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget1.wav",
+			"options": "",
+			"sequence": 54,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
 			"sequence": 55,
 			"type": 0
 		}, 
@@ -416,7 +384,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget1.wav",
+			"options": "",
+			"sequence": 58,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
 			"sequence": 59,
 			"type": 0
 		}, 
@@ -430,7 +405,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget2.wav",
+			"options": "",
+			"sequence": 62,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
 			"sequence": 63,
 			"type": 0
 		}, 
@@ -444,7 +426,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget2.wav",
+			"options": "",
 			"sequence": 67,
 			"type": 0
 		}, 
@@ -458,7 +440,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "",
 			"sequence": 71,
 			"type": 0
 		}, 
@@ -472,7 +454,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "",
 			"sequence": 74,
 			"type": 0
 		}, 
@@ -486,7 +468,7 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget2.wav",
+			"options": "",
 			"sequence": 77,
 			"type": 0
 		}, 
@@ -500,7 +482,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget2.wav",
+			"options": "",
+			"sequence": 80,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
 			"sequence": 81,
 			"type": 0
 		}, 
@@ -513,22 +502,29 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 87,
+			"frame": 1,
+			"options": "",
+			"sequence": 84,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 91,
+			"frame": 1,
+			"options": "",
+			"sequence": 93,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "",
+			"sequence": 96,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
 			"sequence": 105,
 			"type": 0
 		}, 
@@ -541,8 +537,8 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 108,
 			"type": 0
 		}, 
@@ -555,8 +551,8 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 111,
 			"type": 0
 		}, 
@@ -576,15 +572,8 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 115,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 117,
 			"type": 0
 		}, 
@@ -604,43 +593,57 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 121,
+			"frame": 1,
+			"options": "",
+			"sequence": 122,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_rare.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 123,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget_rare.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 126,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "",
 			"sequence": 129,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "",
+			"sequence": 136,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
 			"sequence": 137,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "",
+			"sequence": 144,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
 			"sequence": 145,
 			"type": 0
 		}, 
@@ -653,15 +656,22 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 148,
+			"frame": 1,
+			"options": "",
+			"sequence": 149,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "",
+			"sequence": 150,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
 			"sequence": 151,
 			"type": 0
 		}, 
@@ -674,9 +684,23 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 154,
+			"frame": 1,
+			"options": "",
+			"sequence": 155,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
+			"sequence": 156,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
+			"sequence": 157,
 			"type": 0
 		}, 
 		{
@@ -695,9 +719,16 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 161,
+			"frame": 1,
+			"options": "",
+			"sequence": 162,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
+			"sequence": 163,
 			"type": 0
 		}, 
 		{
@@ -716,15 +747,15 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/hutao/shoot.wav",
-			"sequence": 167,
+			"frame": 1,
+			"options": "",
+			"sequence": 168,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"frame": 1,
+			"options": "",
 			"sequence": 169,
 			"type": 0
 		}, 
@@ -738,7 +769,14 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/weapget3.wav",
+			"options": "",
+			"sequence": 172,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
 			"sequence": 173,
 			"type": 0
 		}, 
@@ -752,38 +790,17 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/hutao/bchit.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 66,
-			"options": "player/playersounds/hutao/bc.wav",
-			"sequence": 183,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/hutao/bcbite.wav",
-			"sequence": 184,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 34,
-			"options": "player/playersounds/hutao/bcbite2.wav",
-			"sequence": 184,
+			"options": "",
+			"sequence": 176,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "f9ed13e999ef9f09b6412bdae849acf7",
+	"md5": "5efbf3c210d214d37bbfb0fc16727fe9",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"modid": 7,
-	"name": "gi_hutao.mdl",
+	"modid": 5,
+	"name": "uma_oguri.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -791,7 +808,7 @@
 		{
 			"fps": 14.000000,
 			"frames": 52,
-			"name": "By_Kazamii"
+			"name": "By_QuasaR"
 		}, 
 		{
 			"fps": 14.000000,
@@ -800,7 +817,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 52,
+			"frames": 31,
 			"name": "deep_idle"
 		}, 
 		{
@@ -865,7 +882,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 34,
+			"frames": 20,
 			"name": "die_forwards"
 		}, 
 		{
@@ -875,7 +892,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 55,
+			"frames": 21,
 			"name": "die_spin"
 		}, 
 		{
@@ -1675,28 +1692,23 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 4,
+			"frames": 3,
 			"name": "deadback"
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 4,
+			"frames": 3,
 			"name": "deadsitting"
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 3,
+			"frames": 2,
 			"name": "deadstomach"
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 3,
+			"frames": 2,
 			"name": "deadtable"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 81,
-			"name": "ShannonCaldwell_v1.2"
 		}, 
 		{
 			"fps": 20.000000,
@@ -1717,34 +1729,9 @@
 			"fps": 15.000000,
 			"frames": 36,
 			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 91,
-			"name": "Convert_By_Kazamii"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 52,
-			"name": "Random Sitonchair"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 52,
-			"name": "Random idle_armed"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 152,
-			"name": "Random Animation xDD"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 82,
-			"name": "Random stretch body"
 		}
 	],
-	"size": 5200424,
+	"size": 2450664,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1811,28 +1798,16 @@
 			"parent": 6
 		}, 
 		{
-			"name": "Bip22 Head_helper",
-			"parent": 15
+			"name": "Bip01 R Leg",
+			"parent": 1
 		}, 
 		{
-			"name": "Bip22 Head_eyes_l",
+			"name": "Bip01 R Leg1",
 			"parent": 16
 		}, 
 		{
-			"name": "Bip22 Head_eyes_r",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip22 L elbow1-smooth",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip22 R elbow1-smooth",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip22 R elbow2-smooth",
-			"parent": 12
+			"name": "Bip01 R Foot",
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 L Leg",
@@ -1840,55 +1815,11 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 22
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 23
-		}, 
-		{
-			"name": "Bip22 L knee2-smooth",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip22 L knee1-smooth",
-			"parent": 22
-		}, 
-		{
-			"name": "Bip01 R Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 R Leg1",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip22 R knee2-smooth",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip22 R knee1-smooth",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip22 L Leg-smooth2",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip22 R Leg-smooth2",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip22 L Leg-smooth1",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip22 R Leg-smooth1",
-			"parent": 1
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -1896,38 +1827,32 @@
 	"textures": [
 		{
 			"flags": 1,
+			"height": 512,
+			"name": "bdy.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "hair.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 1,
+			"height": 512,
+			"name": "tex_tail0001_00_1006_diff.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 5,
 			"height": 256,
-			"name": "null.bmp",
-			"width": 256
+			"name": "eye.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 1,
-			"height": 1024,
-			"name": "cloth_d.bmp",
-			"width": 1024
-		}, 
-		{
-			"flags": 1,
-			"height": 1024,
-			"name": "hair_d.bmp",
-			"width": 1024
-		}, 
-		{
-			"flags": 1,
-			"height": 1024,
-			"name": "face_d.bmp",
-			"width": 1024
-		}, 
-		{
-			"flags": 4,
 			"height": 512,
-			"name": "glow1.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 36,
-			"height": 512,
-			"name": "eyes.bmp",
+			"name": "tex_chr1006_00_face_diff.bmp",
 			"width": 512
 		}
 	],

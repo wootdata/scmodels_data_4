@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1612106316,
+	"date": 1780811479,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "ef8594610e4957e4bd4b1f52a4b97938",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\WINDOWS\\Desktop\\kermit\\Grey3.mdl",
 	"preview": true,
 	"readme": false,

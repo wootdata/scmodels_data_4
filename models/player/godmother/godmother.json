@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1519736808,
+	"date": 1780811479,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "14af4d32539d4eb5d410fd534f14e31e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Hgrunt/AeonFlux.mdl",
 	"preview": true,
 	"readme": false,
